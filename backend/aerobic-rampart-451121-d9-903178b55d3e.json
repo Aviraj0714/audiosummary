@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aerobic-rampart-451121-d9",
+  "private_key_id": "903178b55d3e58e9aee1718dd5c4311c33eca0bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+hLKuSoo5PaZs\n7omswNaOCs5D3a5mQStdVhbfmNBz5+nw3cPJs3i4t+aNLKMgSzcTmDw76OQhCxiv\n19K1lFK2erJecZtJ7HTiOwwChHMi+4iz8KPWJ76ZyH5OANCsGeU5lq0OAokc3saa\n69KtlK5Qi8kLhrNl1htRoQTMCpq+sHqUhzZ7cxsodNMSQ7TiB1caWNKjqdwGhM/U\no8J+2XvmMpqvyea3/OzIFVVos5ac5XhIklizor9aFmhlmmAyG5DrEZy2zHwNxmfC\n9p8TnLCg8X0yn6JakXHJI55NC0kZjwagHYwmX64vJKasnQ+Y1CYvpnPIBXSaRhiH\nvRCtZRzBAgMBAAECggEAA8X5C/6p8ixIaYvn6iX/mdyY7TsswxWzWCvmVBNgvYrw\nVTbvM8V8NJxf0pf5uyACPT8coksgiY8AtCrgH3yKjtarRbeWTcaDIh/tQveAmEbH\nFFlFxW4QFlekOMNHXsE8iwFy9/4Q3SOEZ3kYORviv/Gkz7ehQfkVnW5E/A2Rtwkb\nAj+oW4zX7VdZHaZ3ThL2VcYup0I4/xhhzeczKQvHlCrSK2FzEvTWlWHsl7Tc6bR0\n+FgdadsMVFJP81OO5dh63CuNMSS94rC2ww87yHlfpuVsc4NXj3PNY/w3REJXAPse\nA4kib1NlHLcDkfsaUtuJdTsdQmYBax4Z4Y8I9URfgQKBgQDn3UzwXC4R9SKRJ54T\nfyfojrxkZv3DRmtW7hmupYXhwM9TIxbv7mN31mZDoZ4lLz8O5VqQMdDy6T0r0ISl\nvgVzAwxxfFIstFFPe8tT0jlYOoynIbmPfGHX/x3Hu9hw/SrmgC4kFE4+0Qxy/Q/e\niUCT+Vo4Rva9vd/M3rWQx3lH2QKBgQDSWZxfhfwqTFCW6+musOv5P2EtqC9mMp0K\nyrrHq8dythK+ongZ0FKLx2CUBR7JrH4LWYl7mDZY/Yqv1XpFBigfWx6KJ46eWiDK\nOJNDbIy87qmZh6t7or/N5htJQmK35lPBuMGn4ZV9i9OCxkwL/XWHzgyg+YK4N5zt\nc/3uSQ+TKQKBgQCDHX2YnkffF8QIWWLmm40x0SVvkV4GwxeH/PTA8hEXbDTRSpJ5\n81CEP9VsgUQwutrpzYC88a667nINCMk6AI6MTzkGI8tERGOGkvaT29lZryJCkKui\nHDAoOLfabrsiicdsuSded60XkJd9nuUObob6JpOCJ374JRsdewMpb+OBYQKBgAvi\nolJHaMsfCsKsS8TiHEM2EJCa2yrEG1l7wPf9PcS+guqglXan7bIWLt/ONkIg6/JK\nOdlw7Ukz8j0jK8hwo5258UzPFWDfKNEkRzXdEUqvlYemQcs3k+zXXp1SEe/gJMVi\nYhbRSTgRyX6vI6bdyGFHBDGoR3mPMt+72RI4sJeZAoGBALdzAXEMaLKW6Zl6f70B\nr0LRyzzgDIDhU6U6DYzQ8/J/QPVVgTfIW1iupW3VHAWi2iFMeFuDTcA1IuVpe6nk\nGBsPGjkPm30dDMEP8vLbKt2b3BevSpkGi0+19e+ePGhFZeb4Y2cHfDAdvymFe4cZ\nW75Zij46LTlJOIYj+gWniJ7d\n-----END PRIVATE KEY-----\n",
+  "client_email": "tts-service-accoun@aerobic-rampart-451121-d9.iam.gserviceaccount.com",
+  "client_id": "117271104129497098495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tts-service-accoun%40aerobic-rampart-451121-d9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
