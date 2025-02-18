@@ -1,11 +1,17 @@
-The code changes are as follows:
+**Before:**
 
-1. The sayHi function is defined with no parameters.
+```
+function sayHi() {
+  console.log("👋 Hello world");
+}
+```
 
-2. The sayHi function logs the string "👋 Hello world" to the console.
+This code defines a function called `sayHi` that logs "👋 Hello world" to the console.
 
-3. The sayHi function is called with no arguments.
+**After:**
 
-The code changes result in the following behavior:
+```
+sayHi()
+```
 
-1. The sayHi function is called, and the string "👋 Hello world" is logged to the console.
+This code calls the `sayHi` function, causing the message "👋 Hello world" to be printed to the console.
